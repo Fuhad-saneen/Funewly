@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  FuNewLii
+
+  Created by codemac on 04/10/18.
+  Copyright © 2018 codemac-08i. All rights reserved.
+*/
+"restart" = "Um die Sprache zu ändern, sollten Sie die App schließen und neu öffnen";
+"restartTitle" = "Neustart der App erforderlich";
+"close" = "Schließe jetzt";
+"cancel" = "Stornieren";
+
+
+
+
+//professionelle Details, in wenigen Worten
+//Guten alten Tage good old days

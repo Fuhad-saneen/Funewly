@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  FuNewLii
+
+  Created by codemac on 04/10/18.
+  Copyright © 2018 codemac-08i. All rights reserved.
+*/
+"restart" = "لتغيير اللغة ، يجب إغلاق التطبيق وإعادة فتحه مرة أخرى الآن";
+"restartTitle" = "إعادة تشغيل التطبيق مطلوبة";
+"close" = "إغلاق الآن";
+"cancel" = "إلغاء";

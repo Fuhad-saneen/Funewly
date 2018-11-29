@@ -1,0 +1,712 @@
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "01G-PQ-QtY"; */
+"01G-PQ-QtY.normalTitle" = "ZURÜCK";
+
+/* Class = "UIButton"; normalTitle = "  Report a problem"; ObjectID = "0De-vf-V9s"; */
+"0De-vf-V9s.normalTitle" = "  Report a problem";
+
+/* Class = "UIButton"; normalTitle = "POST"; ObjectID = "0Ry-Ym-A8E"; */
+"0Ry-Ym-A8E.normalTitle" = "POST";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "0cd-4S-bTJ"; */
+"0cd-4S-bTJ.normalTitle" = "ZURÜCK";
+
+/* Class = "UITextField"; placeholder = "Registerd Number"; ObjectID = "20R-Hi-dHd"; */
+"20R-Hi-dHd.placeholder" = "Registrierte Nummer";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "2df-L9-4Nt"; */
+"2df-L9-4Nt.normalTitle" = "Schließen";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "2mE-sC-tHn"; */
+"2mE-sC-tHn.placeholder" = "PASSWORT";
+
+/* Class = "UILabel"; text = "posts"; ObjectID = "3bK-Ic-0TC"; */
+"3bK-Ic-0TC.text" = "Beiträge";
+
+/* Class = "UIButton"; normalTitle = "cards recieved"; ObjectID = "3lw-Rx-gdf"; */
+"3lw-Rx-gdf.normalTitle" = "Karten erhalten";
+
+/* Class = "UILabel"; text = "FUHAD SANEEN"; ObjectID = "40b-C2-6A4"; */
+"40b-C2-6A4.text" = "FUHAD SANEEN";
+
+/* Class = "UIButton"; normalTitle = "public figure"; ObjectID = "4B1-Lp-S1l"; */
+"4B1-Lp-S1l.normalTitle" = "Öffentlichkeit Zahl";
+
+/* Class = "UIButton"; normalTitle = "DELETE REQUEST"; ObjectID = "4GS-IS-9cH"; */
+"4GS-IS-9cH.normalTitle" = "LÖSCHEN ANFORDERN";
+
+/* Class = "UIButton"; normalTitle = "Lock'd Tells"; ObjectID = "4bm-Ck-zOB"; */
+"4bm-Ck-zOB.normalTitle" = "Lock'd Tells";
+
+/* Class = "UITextField"; placeholder = "FULL NAME"; ObjectID = "4x4-77-fQz"; */
+"4x4-77-fQz.placeholder" = "FULL NAME";
+
+/* Class = "UILabel"; text = "First impressions"; ObjectID = "5FX-Cc-xaY"; */
+"5FX-Cc-xaY.text" = "Erste Eindrücke";
+
+/* Class = "UITextView"; text = "      Fetch the 1st text field's data and put space by /n inorder to adjust or keep the distance + 2nd textfield's data +/n,/n, then 3rd and so on..."; ObjectID = "5bA-Lq-bjY"; */
+"5bA-Lq-bjY.text" = "      Fetch the 1st text field's data and put space by /n inorder to adjust or keep the distance + 2nd textfield's data +/n,/n, then 3rd and so on...";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "5fu-WU-CRC"; */
+"5fu-WU-CRC.normalTitle" = "SENDEN";
+
+/* Class = "UILabel"; text = "TITLE FOR MEMORIES"; ObjectID = "6yR-LQ-wFi"; */
+"6yR-LQ-wFi.text" = "TITEL FÜR ERINNERUNGEN";
+
+/* Class = "UILabel"; text = "Fuh3598"; ObjectID = "7aP-Hv-DDz"; */
+"7aP-Hv-DDz.text" = "Fuh3598";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "7pp-O4-rkt"; */
+"7pp-O4-rkt.normalTitle" = "SENDEN";
+
+/* Class = "UITextView"; text = "\" Write a greate and best feature or a special thing you liked most about your close friends \""; ObjectID = "7z4-II-Dl3"; */
+"7z4-II-Dl3.text" = "\" Write a greate and best feature or a special thing you liked most about your close friends \"";
+
+/* Class = "UITextField"; placeholder = "send to person lyllbit name"; ObjectID = "80d-6f-2XO"; */
+"80d-6f-2XO.placeholder" = "Sende an den Namen der Person lyllbit";
+
+/* Class = "UILabel"; text = "first 3 letters of your NAME & last 4 of yor MOBILE numer*"; ObjectID = "8Ts-hu-dK9"; */
+"8Ts-hu-dK9.text" = "die ersten 4 Buchstaben Ihres NAMENS & Letzte 4 von MOBILE nummer*";
+
+/* Class = "UIButton"; normalTitle = "friend"; ObjectID = "8oC-Uk-6gU"; */
+"8oC-Uk-6gU.normalTitle" = "Freund";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "9Cc-sv-rkn"; */
+"9Cc-sv-rkn.normalTitle" = "Ausloggen";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "9Qt-tP-024"; */
+"9Qt-tP-024.text" = "Bemerkungen";
+
+/* Class = "UILabel"; text = "first meeting stories"; ObjectID = "9eZ-Lc-l0k"; */
+"9eZ-Lc-l0k.text" = "erste Treffen Erinnerungen";
+
+/* Class = "UIButton"; normalTitle = "RESEND"; ObjectID = "9ji-e6-N2R"; */
+"9ji-e6-N2R.normalTitle" = "ERNEUT SENDEN";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "AIw-Ot-XsY"; */
+"AIw-Ot-XsY.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "105"; ObjectID = "AOj-08-ntS"; */
+"AOj-08-ntS.normalTitle" = "105";
+
+/* Class = "UILabel"; text = "arun govind"; ObjectID = "Ahg-sV-4u1"; */
+"Ahg-sV-4u1.text" = "arun govind";
+
+/* Class = "UILabel"; text = "Arun govind"; ObjectID = "B4j-LC-c5n"; */
+"B4j-LC-c5n.text" = "Arun govind";
+
+/* Class = "UILabel"; text = "FUHAD SANEEN"; ObjectID = "BW9-vg-vBQ"; */
+"BW9-vg-vBQ.text" = "FUHAD SANEEN";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo "; ObjectID = "BaP-gl-7fF"; */
+"BaP-gl-7fF.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo ";
+
+/* Class = "UIButton"; normalTitle = "  Block profile creation"; ObjectID = "BfQ-zp-2LK"; */
+"BfQ-zp-2LK.normalTitle" = "  Block profilerstellung";
+
+/* Class = "UIButton"; normalTitle = "write a best feature of a friend"; ObjectID = "Bmm-Go-Fw9"; */
+"Bmm-Go-Fw9.normalTitle" = "schreibe eine beste Eigenschaft eines Freundes";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur  enim ad minim veniam, quis um odioque civiuda."; ObjectID = "Bx7-P2-Gpl"; */
+"Bx7-P2-Gpl.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur  enim ad minim veniam, quis um odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "DHu-Ky-dzy"; */
+"DHu-Ky-dzy.normalTitle" = "SENDEN";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "DO1-J2-7xp"; */
+"DO1-J2-7xp.normalTitle" = "STORNIEREN";
+
+/* Class = "UIButton"; normalTitle = "Friends"; ObjectID = "DXr-Hl-pAt"; */
+"DXr-Hl-pAt.normalTitle" = "Freundes";
+
+/* Class = "UITextField"; placeholder = "USERNAME"; ObjectID = "EEP-3g-N9g"; */
+"EEP-3g-N9g.placeholder" = "NUTZERNAME";
+
+/* Class = "UILabel"; text = "2 days ago"; ObjectID = "EQc-Dq-9A3"; */
+"EQc-Dq-9A3.text" = "2 days ago";
+
+/* Class = "UILabel"; text = "  most searched"; ObjectID = "EdK-HB-RLn"; */
+"EdK-HB-RLn.text" = "  am meisten gesucht";
+
+/* Class = "UITextView"; text = "ghguygiu hiuiulyihy hkuyiuyioyu hiuoiuopuoujoi iojiououiouioo  hhiuhio nuhuys hioioj "; ObjectID = "ExK-JG-UFW"; */
+"ExK-JG-UFW.text" = "ghguygiu hiuiulyihy hkuyiuyioyu hiuoiuopuoujoi iojiououiouioo  hhiuhio nuhuys hioioj ";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "F6e-XM-4rh"; */
+"F6e-XM-4rh.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Tells ✨"; ObjectID = "FW8-lC-vkG"; */
+"FW8-lC-vkG.text" = "Tells ✨";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "GKT-nW-zyG"; */
+"GKT-nW-zyG.normalTitle" = "zurück";
+
+/* Class = "UIButton"; normalTitle = "123 "; ObjectID = "GSG-h1-r7h"; */
+"GSG-h1-r7h.normalTitle" = "123 ";
+
+/* Class = "UITextField"; placeholder = "To: Mobile number of the person"; ObjectID = "GaG-56-Id5"; */
+"GaG-56-Id5.placeholder" = "Zu: Handynummer der Person";
+
+/* Class = "UIButton"; normalTitle = "Home"; ObjectID = "HFy-Bx-4Yw"; */
+"HFy-Bx-4Yw.normalTitle" = "Home";
+
+/* Class = "UILabel"; text = "\" The greatest and funniest first time thought or an unforgettable experience about your friend that you loved the most  ✨\""; ObjectID = "HGx-dY-xQf"; */
+"HGx-dY-xQf.text" = "\" Das größte und lustigste erste Mal dachte oder eine unvergessliche Erfahrung über Ihren Freund, dass Sie am meisten liebte  ✨\"";
+
+/* Class = "UIButton"; normalTitle = "  Language"; ObjectID = "HVC-p7-GnT"; */
+"HVC-p7-GnT.normalTitle" = "  Sprache";
+
+/* Class = "UIButton"; normalTitle = "YOURS"; ObjectID = "Hgz-Q0-c5v"; */
+"Hgz-Q0-c5v.normalTitle" = "DEINE";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "I2g-sf-M7U"; */
+"I2g-sf-M7U.normalTitle" = "Senden";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "I5o-cy-L6Z"; */
+"I5o-cy-L6Z.text" = "Über uns";
+
+/* Class = "UILabel"; text = "            ziyad malik is a musician and entreprenuer from tamilnadu , and has a musical instrument brand called sangeeth"; ObjectID = "I8S-bV-pPo"; */
+"I8S-bV-pPo.text" = "            ziyad malik is a musician and entreprenuer from tamilnadu , and has a musical instrument brand called sangeeth";
+
+/* Class = "UILabel"; text = "Greater Achievements if any"; ObjectID = "IFG-Xm-u9h"; */
+"IFG-Xm-u9h.text" = "Größere Erfolge, wenn überhaupt";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "Igv-pc-517"; */
+"Igv-pc-517.normalTitle" = "SIGN IN";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "IpR-yl-36R"; */
+"IpR-yl-36R.normalTitle" = "Senden";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip "; ObjectID = "Izp-qv-CSt"; */
+"Izp-qv-CSt.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ";
+
+/* Class = "UILabel"; text = "Didn't recieve the OTP ?"; ObjectID = "JAg-Zp-dWQ"; */
+"JAg-Zp-dWQ.text" = "Ich habe das OTP nicht erhalten ?";
+
+/* Class = "UIButton"; normalTitle = "Take a screen shot & share it with facebook"; ObjectID = "JEG-t1-cbS"; */
+"JEG-t1-cbS.normalTitle" = "Take a screen shot & share it with facebook";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "JFj-PF-UuW"; */
+"JFj-PF-UuW.normalTitle" = "Englisch";
+
+/* Class = "UILabel"; text = "\" Create your unforgettable and beautiful stories with your favourite ones \""; ObjectID = "JFu-5n-HXp"; */
+"JFu-5n-HXp.text" = "\" Erstellen Sie unvergessliche und schöne Geschichten mit Ihren Lieblingsfreunden \"";
+
+/* Class = "UIButton"; normalTitle = "Add image"; ObjectID = "JMV-gd-TiT"; */
+"JMV-gd-TiT.normalTitle" = "Bild hinzufügen";
+
+/* Class = "UILabel"; text = "Fuhad saneen"; ObjectID = "JRD-c7-Oiy"; */
+"JRD-c7-Oiy.text" = "Fuhad saneen";
+
+/* Class = "UILabel"; text = "Comments ✨"; ObjectID = "Js3-kc-JNK"; */
+"Js3-kc-JNK.text" = "Bemerkungen ✨";
+
+/* Class = "UIButton"; normalTitle = "  Open source libraries"; ObjectID = "KHg-IE-djo"; */
+"KHg-IE-djo.normalTitle" = "  Open-Source-Bibliotheken";
+
+/* Class = "UITextField"; placeholder = "USER NAME"; ObjectID = "KVc-v3-gB9"; */
+"KVc-v3-gB9.placeholder" = "NUTZERNAME";
+
+/* Class = "UITextView"; text = "   there was a time , let me be yours baby. once uoon a time in mumbai xmen two. jurasic park spiderman , superman, batman. i wanna be a super hero ww"; ObjectID = "L60-tX-Suh"; */
+"L60-tX-Suh.text" = "   there was a time , let me be yours baby. once uoon a time in mumbai xmen two. jurasic park spiderman , superman, batman. i wanna be a super hero ww";
+
+/* Class = "UITextView"; text = "            fuhad saneen is a kerala born muslim boy who has an alternative skills of inventing new ideas ............... in achieving his desired goals and dreams. he has also invented the application called ===n and its been trending in the world right now.Excepteur sint occaecat cupidatat non proident.He was absolutely a genius. sunt in culpa qui officia daeserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiud."; ObjectID = "L9e-ZN-s8J"; */
+"L9e-ZN-s8J.text" = "            fuhad saneen is a kerala born muslim boy who has an alternative skills of inventing new ideas ............... in achieving his desired goals and dreams. he has also invented the application called ===n and its been trending in the world right now.Excepteur sint occaecat cupidatat non proident.He was absolutely a genius. sunt in culpa qui officia daeserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiud.";
+
+/* Class = "UIButton"; normalTitle = "VIEW MY TELLS"; ObjectID = "LGU-Og-Q7v"; */
+"LGU-Og-Q7v.normalTitle" = "VIEW MY TELLS";
+
+/* Class = "UIButton"; normalTitle = "178"; ObjectID = "LVB-fS-sgA"; */
+"LVB-fS-sgA.normalTitle" = "178";
+
+/* Class = "UILabel"; text = "Are you the person mentioned above, Then send a request to read it "; ObjectID = "MBp-Vk-xrQ"; */
+"MBp-Vk-xrQ.text" = "Sind Sie die oben genannte Person, dann senden Sie eine Anfrage, um es zu lesen ";
+
+/* Class = "UILabel"; text = "fuh2258"; ObjectID = "MWk-YV-718"; */
+"MWk-YV-718.text" = "fuh2258";
+
+/* Class = "UIButton"; normalTitle = "FUHAD SANEEN"; ObjectID = "MaM-um-Kcl"; */
+"MaM-um-Kcl.normalTitle" = "FUHAD SANEEN";
+
+/* Class = "UILabel"; text = "2 hours ago"; ObjectID = "McY-FA-TvY"; */
+"McY-FA-TvY.text" = "2 Vor Stunden";
+
+/* Class = "UIButton"; normalTitle = "852"; ObjectID = "NSP-ZX-nT8"; */
+"NSP-ZX-nT8.normalTitle" = "852";
+
+/* Class = "UILabel"; text = "support"; ObjectID = "Obf-b8-LTL"; */
+"Obf-b8-LTL.text" = "Unterstützung";
+
+/* Class = "UIButton"; normalTitle = "Block this person"; ObjectID = "OiU-fq-deg"; */
+"OiU-fq-deg.normalTitle" = "Blockiere diese Person";
+
+/* Class = "UIButton"; normalTitle = "cards sent"; ObjectID = "OoE-MX-OWB"; */
+"OoE-MX-OWB.normalTitle" = "cards sent";
+
+/* Class = "UILabel"; text = "         Lubna details which are not full as in array and in blurry where he can do anything he want . He is so skilled at football"; ObjectID = "Oui-Ja-7ia"; */
+"Oui-Ja-7ia.text" = "         Lubna details which are not full as in array and in blurry where he can do anything he want . He is so skilled at football";
+
+/* Class = "UIButton"; normalTitle = "Forget password ?"; ObjectID = "Ozh-fn-DgX"; */
+"Ozh-fn-DgX.normalTitle" = "Passwort vergessen ?";
+
+/* Class = "UILabel"; text = "Stories ✨"; ObjectID = "PEh-kd-TET"; */
+"PEh-kd-TET.text" = "Stories ✨";
+
+/* Class = "UILabel"; text = "FUHAD SANEEN"; ObjectID = "PMH-Qt-D45"; */
+"PMH-Qt-D45.text" = "FUHAD SANEEN";
+
+/* Class = "UILabel"; text = "Select any of the social media accounts *"; ObjectID = "PUF-Pd-bVK"; */
+"PUF-Pd-bVK.text" = "Wählen Sie eines der Social Media-Konten aus *";
+
+/* Class = "UIButton"; normalTitle = "German"; ObjectID = "Pml-ko-5K2"; */
+"Pml-ko-5K2.normalTitle" = "Deutsche";
+
+/* Class = "UISegmentedControl"; QC4-6a-Gnd.segmentTitles[0] = "PERSONAL"; ObjectID = "QC4-6a-Gnd"; */
+"QC4-6a-Gnd.segmentTitles[0]" = "PERSÖNLICH";
+
+/* Class = "UISegmentedControl"; QC4-6a-Gnd.segmentTitles[1] = "PUBLIC FIGURE"; ObjectID = "QC4-6a-Gnd"; */
+"QC4-6a-Gnd.segmentTitles[1]" = "PERSÖNLICHKEIT DES ÖFFENTLICHEN LEBENS";
+
+/* Class = "UILabel"; text = "Reply"; ObjectID = "QLO-Ql-hZp"; */
+"QLO-Ql-hZp.text" = "Antworten";
+
+/* Class = "UIButton"; normalTitle = "   Profile"; ObjectID = "Qcq-q3-hm9"; */
+"Qcq-q3-hm9.normalTitle" = "   Profil";
+
+/* Class = "UITextView"; text = "add your friend's name"; ObjectID = "Qe9-mx-9xg"; */
+"Qe9-mx-9xg.text" = "Füge den Namen deines Freundes hinzu";
+
+/* Class = "UIButton"; normalTitle = "Comment a reply"; ObjectID = "QtJ-qx-uWd"; */
+"QtJ-qx-uWd.normalTitle" = "Kommentiere eine Antwort";
+
+/* Class = "UIButton"; normalTitle = "  Notification"; ObjectID = "QvJ-Df-Abs"; */
+"QvJ-Df-Abs.normalTitle" = "  Notification";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur "; ObjectID = "R31-92-QE2"; */
+"R31-92-QE2.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur ";
+
+/* Class = "UILabel"; text = "✨"; ObjectID = "R5I-gB-Nte"; */
+"R5I-gB-Nte.text" = "✨";
+
+/* Class = "UILabel"; text = "what about getting to know lyllbit about every one who meets. Don't you really wanna know atlest something about some one you likes. so find them !"; ObjectID = "RS7-EN-T5v"; */
+"RS7-EN-T5v.text" = "what about getting to know a littlebit about every one whom you meets. Don't you really wanna know atlest something about someone you likes. so find them !";
+
+/* Class = "UILabel"; text = "Write some unforgettable memories with your friends that you enjoyed in your old good days"; ObjectID = "Riv-gq-G1z"; */
+"Riv-gq-G1z.text" = "Schreiben Sie unvergessliche Erinnerungen mit Ihren Freunden, die Sie in Ihren alten guten Tagen genossen haben";
+
+/* Class = "UITextField"; placeholder = "MOBILE NUMBER"; ObjectID = "Rr8-T7-FgL"; */
+"Rr8-T7-FgL.placeholder" = "HANDY NUMMER";
+
+/* Class = "UITextView"; text = "write your reply here"; ObjectID = "SEL-au-7jL"; */
+"SEL-au-7jL.text" = "Schreibe deine Antwort hier
+";
+
+/* Class = "UITextField"; placeholder = "Add a lyll id"; ObjectID = "STK-87-01m"; */
+"STK-87-01m.placeholder" = "Fügen Sie eine lyllbit-ID hinzu";
+
+/* Class = "UITextField"; placeholder = "name in caps"; ObjectID = "ScI-tt-z92"; */
+"ScI-tt-z92.placeholder" = "Name in Großbuchstaben";
+
+/* Class = "UIButton"; normalTitle = "POST"; ObjectID = "Suy-cW-NrD"; */
+"Suy-cW-NrD.normalTitle" = "POST";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "SwA-mi-gc6"; */
+"SwA-mi-gc6.normalTitle" = "ZURÜCK";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "TKP-2a-9iF"; */
+"TKP-2a-9iF.normalTitle" = "ZURÜCK";
+
+/* Class = "UIButton"; normalTitle = "VIEW MY STORIES"; ObjectID = "TNu-qi-Yty"; */
+"TNu-qi-Yty.normalTitle" = "VIEW MY STORIES";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "TXb-rW-Xjw"; */
+"TXb-rW-Xjw.text" = "or";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "Tho-9Z-vUz"; */
+"Tho-9Z-vUz.placeholder" = "Passwort bestätigen";
+
+/* Class = "UILabel"; text = "2 days ago"; ObjectID = "TiK-6Z-OGg"; */
+"TiK-6Z-OGg.text" = "2 vor Tagen";
+
+/* Class = "UIButton"; normalTitle = "VERIFY IT"; ObjectID = "TyQ-th-ZRs"; */
+"TyQ-th-ZRs.normalTitle" = "ÜBERPRÜFEN";
+
+/* Class = "UILabel"; text = "Are you the person mentioned above, Then send a request to read it "; ObjectID = "U6h-mM-YGj"; */
+"U6h-mM-YGj.text" = "Are you the person mentioned above, Then send a request to read it ";
+
+/* Class = "UIButton"; normalTitle = "Add "; ObjectID = "UC9-XX-5Aa"; */
+"UC9-XX-5Aa.normalTitle" = "Hinzufügen ";
+
+/* Class = "UIButton"; normalTitle = "Arabi"; ObjectID = "UZb-hC-gc0"; */
+"UZb-hC-gc0.normalTitle" = "Arabisch";
+
+/* Class = "UILabel"; text = "An impressive introduction"; ObjectID = "Ucc-iM-28h"; */
+"Ucc-iM-28h.text" = "An impressive introduction";
+
+/* Class = "UITextField"; placeholder = "Email/ FACEBOOK ID"; ObjectID = "Ugt-qC-KuO"; */
+"Ugt-qC-KuO.placeholder" = "Email/ FACEBOOK ID";
+
+/* Class = "UILabel"; text = " Bits ✨"; ObjectID = "WID-14-dpc"; */
+"WID-14-dpc.text" = " Bits ✨";
+
+/* Class = "UILabel"; text = "Friends"; ObjectID = "WO3-er-hTe"; */
+"WO3-er-hTe.text" = "Freunde";
+
+/* Class = "UILabel"; text = "For Verifying the person to whom you sent ,it is Mandatory *"; ObjectID = "Wbs-G9-HgD"; */
+"Wbs-G9-HgD.text" = "Für die Überprüfung der Person, an die Sie gesendet haben, ist dies obligatorisch*";
+
+/* Class = "UIButton"; normalTitle = "125"; ObjectID = "X8B-77-e9b"; */
+"X8B-77-e9b.normalTitle" = "125";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "XGi-vW-9rH"; */
+"XGi-vW-9rH.normalTitle" = "Zurück";
+
+/* Class = "UILabel"; text = "JITHU S MATHEW"; ObjectID = "XMv-9b-tFY"; */
+"XMv-9b-tFY.text" = "JITHU S MATHEW";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "XmG-m4-bcG"; */
+"XmG-m4-bcG.text" = "Settings";
+
+/* Class = "UILabel"; text = "Remember me"; ObjectID = "Xsg-kB-Vzv"; */
+"Xsg-kB-Vzv.text" = "Remember me";
+
+/* Class = "UILabel"; text = "wants to post a biography about you"; ObjectID = "Xvc-t3-jLi"; */
+"Xvc-t3-jLi.text" = "möchte eine Biographie über dich veröffentlichen";
+
+/* Class = "UILabel"; text = "comments"; ObjectID = "Xzj-dT-nOF"; */
+"Xzj-dT-nOF.text" = "Kommentare";
+
+/* Class = "UILabel"; text = "Fuhad saneen"; ObjectID = "Y44-m6-cpx"; */
+"Y44-m6-cpx.text" = "Fuhad saneen";
+
+/* Class = "UILabel"; text = "FUH4522"; ObjectID = "Y4w-UM-6tZ"; */
+"Y4w-UM-6tZ.text" = "FUH4522";
+
+/* Class = "UILabel"; text = "sent a feature card"; ObjectID = "Ylu-Af-utH"; */
+"Ylu-Af-utH.text" = "Senden Sie eine Feature-Karte";
+
+/* Class = "UIButton"; normalTitle = "FUHAD SANEEN"; ObjectID = "ZNw-JX-kGD"; */
+"ZNw-JX-kGD.normalTitle" = "FUHAD SANEEN";
+
+/* Class = "UIButton"; normalTitle = "Fuhad saneen"; ObjectID = "ZNz-pC-V6a"; */
+"ZNz-pC-V6a.normalTitle" = "Fuhad saneen";
+
+/* Class = "UIButton"; normalTitle = "  Block users/ hide your profile"; ObjectID = "ZO6-8h-avh"; */
+"ZO6-8h-avh.normalTitle" = "  Blockiere Nutzer / verstecke dein Profil";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "Za6-BK-2PR"; */
+"Za6-BK-2PR.normalTitle" = "ZURÜCK";
+
+/* Class = "UILabel"; text = "JITHU S MATHEW"; ObjectID = "Zk2-Ga-Dm9"; */
+"Zk2-Ga-Dm9.text" = "JITHU S MATHEW";
+
+/* Class = "UILabel"; text = "\"  Write a most precious message or greetings or some good words with someone who is so much important to you or someone whom you really missing with and you loved the most ✨\""; ObjectID = "ZpJ-u4-zQV"; */
+"ZpJ-u4-zQV.text" = "\"  Write a most precious message or greetings or some good words with someone who is so much important to you or someone whom you really missing with and you loved the most ✨\"";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "ZtM-Vt-reG"; */
+"ZtM-Vt-reG.text" = "...";
+
+/* Class = "UILabel"; text = "saurav shylesh"; ObjectID = "ZwN-n3-Gme"; */
+"ZwN-n3-Gme.text" = "saurav shylesh";
+
+/* Class = "UITextView"; text = "add that person's name here"; ObjectID = "a5e-h0-pGf"; */
+"a5e-h0-pGf.text" = "Fügen Sie den Namen dieser Person hier hinzu";
+
+/* Class = "UITextView"; text = "      Fetch the 1st text field's data and put space by /n inorder to adjust or keep the distance + 2nd textfield's data +/n,/n, then 3rd and so on... created by me"; ObjectID = "aN3-hg-w39"; */
+"aN3-hg-w39.text" = "      Fetch the 1st text field's data and put space by /n inorder to adjust or keep the distance + 2nd textfield's data +/n,/n, then 3rd and so on... created by me";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "aUy-oN-gN7"; */
+"aUy-oN-gN7.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "FUHAD SANEEN N"; ObjectID = "b9Q-zu-bq5"; */
+"b9Q-zu-bq5.text" = "FUHAD SANEEN N";
+
+/* Class = "UILabel"; text = "fuhad saneen"; ObjectID = "bO6-nW-5Rh"; */
+"bO6-nW-5Rh.text" = "fuhad saneen";
+
+/* Class = "UILabel"; text = "Tells ✨"; ObjectID = "bOM-VL-lGM"; */
+"bOM-VL-lGM.text" = "Tells ✨";
+
+/* Class = "UILabel"; text = "FUH2258"; ObjectID = "bah-pd-G3h"; */
+"bah-pd-G3h.text" = "FUH2258";
+
+/* Class = "UILabel"; text = "Must contain 1 digit,Capital & small letter *"; ObjectID = "c0s-1h-TnU"; */
+"c0s-1h-TnU.text" = "Muss mindestens 1 Ziffer, Groß- und Kleinbuchstaben enthalten *";
+
+/* Class = "UIButton"; normalTitle = "  Terms and conditions"; ObjectID = "c27-51-kXW"; */
+"c27-51-kXW.normalTitle" = "  Allgemeine Geschäftsbedingungen";
+
+/* Class = "UILabel"; text = "We have send you an SMS with OTP code to your number for verification"; ObjectID = "c8u-c7-dIe"; */
+"c8u-c7-dIe.text" = "Wir haben Ihnen eine SMS mit OTP-Code zur Überprüfung an Ihre Nummer gesendet";
+
+/* Class = "UILabel"; text = "Write the most funniest and weirdest thoughts, when you meet your craziest friends for the very first time"; ObjectID = "cCi-2v-ApJ"; */
+"cCi-2v-ApJ.text" = "Write the most funniest and weirdest thoughts, when you meet your craziest friends for the very first time";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "cOI-c1-TPX"; */
+"cOI-c1-TPX.normalTitle" = "DONE";
+
+/* Class = "UIButton"; normalTitle = "Select Themes"; ObjectID = "cUp-oi-qH4"; */
+"cUp-oi-qH4.normalTitle" = "Thema wählen";
+
+/* Class = "UILabel"; text = "ziyad malik is a musician and entreprenuer from tamilnadu , and has a musical instrument brand called sangeeth"; ObjectID = "cbX-iT-lnW"; */
+"cbX-iT-lnW.text" = "ziyad malik is a musician and entreprenuer from tamilnadu , and has a musical instrument brand called sangeeth";
+
+/* Class = "UILabel"; text = "Memories"; ObjectID = "cvt-9G-Sm6"; */
+"cvt-9G-Sm6.text" = "Erinnerungen";
+
+/* Class = "UILabel"; text = "fuh2258"; ObjectID = "d9A-dG-i3H"; */
+"d9A-dG-i3H.text" = "fuh2258";
+
+/* Class = "UIButton"; normalTitle = "  Privacy policy"; ObjectID = "dSt-bj-Yf2"; */
+"dSt-bj-Yf2.normalTitle" = "  Privacy policy";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "dtp-UL-3M1"; */
+"dtp-UL-3M1.normalTitle" = "AKTUALISIEREN";
+
+/* Class = "UIButton"; normalTitle = "saurav shylesh"; ObjectID = "e8C-Jr-fnn"; */
+"e8C-Jr-fnn.normalTitle" = "saurav shylesh";
+
+/* Class = "UIButton"; normalTitle = "VIEW MY MEMORIES"; ObjectID = "e9h-ag-adD"; */
+"e9h-ag-adD.normalTitle" = "MEINE ERINNERUNGEN";
+
+/* Class = "UIButton"; normalTitle = "YOURS"; ObjectID = "eTr-a7-ZLy"; */
+"eTr-a7-ZLy.normalTitle" = "DEINE";
+
+/* Class = "UIButton"; normalTitle = "TELLS TO ME"; ObjectID = "eWz-V7-SIn"; */
+"eWz-V7-SIn.normalTitle" = "TELLS FÜR MICH";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "ek2-ks-jvV"; */
+"ek2-ks-jvV.placeholder" = "Passwort";
+
+/* Class = "UILabel"; text = "1.2k"; ObjectID = "ep6-fV-gKq"; */
+"ep6-fV-gKq.text" = "1.2k";
+
+/* Class = "UILabel"; text = "FORGOT PASSWORD ?"; ObjectID = "f2V-kv-qtz"; */
+"f2V-kv-qtz.text" = "PASSWORT VERGESSEN ?";
+
+/* Class = "UILabel"; text = "✨"; ObjectID = "fKD-5j-hSu"; */
+"fKD-5j-hSu.text" = "✨";
+
+/* Class = "UILabel"; text = "PASSWORD SETTING"; ObjectID = "fay-Lg-5vu"; */
+"fay-Lg-5vu.text" = "PASSWORT EINSTELLUNG";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "fkM-25-PXS"; */
+"fkM-25-PXS.text" = "Comments";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis "; ObjectID = "fp8-8X-4bN"; */
+"fp8-8X-4bN.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis ";
+
+/* Class = "UILabel"; text = "  Recent cards"; ObjectID = "gRy-Oh-u9h"; */
+"gRy-Oh-u9h.text" = "  Recent cards";
+
+/* Class = "UILabel"; text = "2 days ago"; ObjectID = "hVf-qD-gDv"; */
+"hVf-qD-gDv.text" = "2 days ago";
+
+/* Class = "UIButton"; normalTitle = "Add Friend"; ObjectID = "hhQ-Hj-cg6"; */
+"hhQ-Hj-cg6.normalTitle" = "Add Friend";
+
+/* Class = "UILabel"; text = "PLEASE ENTER YOUR ONE TIME OTP PASSWORD"; ObjectID = "hlf-x8-aap"; */
+"hlf-x8-aap.text" = "Bitte geben Sie Ihr einmaliges OTP-Passwort ein";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP TO CELEBRATE ✨"; ObjectID = "hmY-F1-CmP"; */
+"hmY-F1-CmP.normalTitle" = "ANMELDEN UND FEIERN ✨";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "hrK-6g-0fa"; */
+"hrK-6g-0fa.text" = "Comments";
+
+/* Class = "UIButton"; normalTitle = "  Help center"; ObjectID = "i0X-Aj-4qM"; */
+"i0X-Aj-4qM.normalTitle" = "  Hilf mir";
+
+/* Class = "UILabel"; text = "memories"; ObjectID = "iKB-i4-GLx"; */
+"iKB-i4-GLx.text" = "memories";
+
+/* Class = "UITextView"; text = "comments"; ObjectID = "ij3-Hp-1cq"; */
+"ij3-Hp-1cq.text" = "comments";
+
+/* Class = "UIButton"; normalTitle = "fuhad saneen"; ObjectID = "ipz-RJ-YUw"; */
+"ipz-RJ-YUw.normalTitle" = "fuhad saneen";
+
+/* Class = "UIButton"; normalTitle = "Benetton kingsta"; ObjectID = "iqs-nH-mVW"; */
+"iqs-nH-mVW.normalTitle" = "Benetton kingsta";
+
+/* Class = "UILabel"; text = "Fuhad saneen"; ObjectID = "j62-3h-2Wc"; */
+"j62-3h-2Wc.text" = "Fuhad saneen";
+
+/* Class = "UILabel"; text = "taggedPersonsName"; ObjectID = "j7x-1G-bYq"; */
+"j7x-1G-bYq.text" = "taggedPersonsName";
+
+/* Class = "UITextView"; text = "         "; ObjectID = "j84-bW-Ofp"; */
+"j84-bW-Ofp.text" = "         ";
+
+/* Class = "UIButton"; normalTitle = "Memories ✨"; ObjectID = "jE8-2l-LX0"; */
+"jE8-2l-LX0.normalTitle" = "Memories ✨";
+
+/* Class = "UIButton"; normalTitle = "Send a request"; ObjectID = "jIR-nu-Q6z"; */
+"jIR-nu-Q6z.normalTitle" = "Anfrage senden";
+
+/* Class = "UIButton"; normalTitle = "Saurav Shylesh ✨"; ObjectID = "jVb-Cf-7uN"; */
+"jVb-Cf-7uN.normalTitle" = "Saurav Shylesh ✨";
+
+/* Class = "UILabel"; text = "Write a little bit about you yourself that you really want others must knew. And tell a beautiful  story  about you"; ObjectID = "jfe-mO-ZR7"; */
+"jfe-mO-ZR7.text" = "Write a little bit about you yourself that you really want others must knew. And tell a beautiful  story  about you";
+
+/* Class = "UITextView"; text = "If there is no reply , then this text view wouldn't be showed-Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do - Type your reply here 😄"; ObjectID = "jpp-Nx-nq5"; */
+"jpp-Nx-nq5.text" = "If there is no reply , then this text view wouldn't be showed-Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do - Type your reply here 😄";
+
+/* Class = "UIButton"; normalTitle = "POST"; ObjectID = "kkH-vb-tkg"; */
+"kkH-vb-tkg.normalTitle" = "POST";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "lAB-1B-lhA"; */
+"lAB-1B-lhA.text" = "...";
+
+/* Class = "UILabel"; text = "FUHAD SANEEN"; ObjectID = "lOj-iZ-ipy"; */
+"lOj-iZ-ipy.text" = "FUHAD SANEEN";
+
+/* Class = "UIButton"; normalTitle = "Delete Post"; ObjectID = "law-0y-NI4"; */
+"law-0y-NI4.normalTitle" = "Delete Post";
+
+/* Class = "UILabel"; text = "  most searched"; ObjectID = "lzQ-tQ-WmN"; */
+"lzQ-tQ-WmN.text" = "  am meisten gesucht";
+
+/* Class = "UIButton"; normalTitle = "Yes Post it "; ObjectID = "mgH-jx-boW"; */
+"mgH-jx-boW.normalTitle" = "Ja, poste es ";
+
+/* Class = "UILabel"; text = "Professional details if any"; ObjectID = "moO-j9-cOv"; */
+"moO-j9-cOv.text" = "Professionelle Details, falls vorhanden";
+
+/* Class = "UILabel"; text = "FUHAD SANEEN N"; ObjectID = "nEA-rx-5Iz"; */
+"nEA-rx-5Iz.text" = "FUHAD SANEEN N";
+
+/* Class = "UITextView"; text = "            fuhad saneen is a kerala born muslim boy who has an alternative skills of inventing new ideas ............... in achieving his desired goals and dreams. he has also invented the application called ===n and its been trending in the world now.Excepteur sint occaecat cupidatat non proident.He was absolutely a genius. sunt in culpa qui officia daeserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiud. /n"; ObjectID = "nKz-Dh-Ryg"; */
+"nKz-Dh-Ryg.text" = "            fuhad saneen is a kerala born muslim boy who has an alternative skills of inventing new ideas ............... in achieving his desired goals and dreams. he has also invented the application called ===n and its been trending in the world now.Excepteur sint occaecat cupidatat non proident.He was absolutely a genius. sunt in culpa qui officia daeserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiud. /n";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "nLH-jk-6dG"; */
+"nLH-jk-6dG.placeholder" = "Neu Passwort";
+
+/* Class = "UILabel"; text = "✨"; ObjectID = "nMv-iY-7cn"; */
+"nMv-iY-7cn.text" = "✨";
+
+/* Class = "UILabel"; text = "  Recent cards"; ObjectID = "obP-CR-vUe"; */
+"obP-CR-vUe.text" = "  Kürzlich cards";
+
+/* Class = "UILabel"; text = "Shows your real ID *"; ObjectID = "osf-aj-JAL"; */
+"osf-aj-JAL.text" = "Shows your real ID *";
+
+/* Class = "UILabel"; text = "JITHU S MATHEW"; ObjectID = "pLW-ej-5Kt"; */
+"pLW-ej-5Kt.text" = "JITHU S MATHEW";
+
+/* Class = "UILabel"; text = "Enter your new password"; ObjectID = "pNw-2n-cAa"; */
+"pNw-2n-cAa.text" = "Gib dein neues Passwort ein";
+
+/* Class = "UILabel"; text = "taggedPersonsName"; ObjectID = "pSq-aB-mRm"; */
+"pSq-aB-mRm.text" = "taggedPersonsName";
+
+/* Class = "UIButton"; normalTitle = "105"; ObjectID = "q1D-Jr-tmQ"; */
+"q1D-Jr-tmQ.normalTitle" = "105";
+
+/* Class = "UITextView"; text = "Add a title here"; ObjectID = "qcW-at-IYt"; */
+"qcW-at-IYt.text" = "Fügen Sie hier einen Titel hinzu";
+
+/* Class = "UIButton"; normalTitle = "Not Registered yet? Sign Up Now"; ObjectID = "qfz-Uc-yax"; */
+"qfz-Uc-yax.normalTitle" = "Nicht registriert yet? Sign Up Jetzt";
+
+/* Class = "UIButton"; normalTitle = "  Share with facebook friends"; ObjectID = "qyO-xW-qN1"; */
+"qyO-xW-qN1.normalTitle" = "  Mit Facebook Freunden teilen";
+
+/* Class = "UILabel"; text = "Good old days ✨"; ObjectID = "qim-tY-G1y"; */
+"qim-tY-G1y.text" = "Guten alten Tage ✨";
+
+/* Class = "UIButton"; normalTitle = "More friends"; ObjectID = "qzO-VI-25k"; */
+"qzO-VI-25k.normalTitle" = "Mehr Freunde";
+
+/* Class = "UIButton"; normalTitle = "ACCEPT IT"; ObjectID = "r5p-h3-LTx"; */
+"r5p-h3-LTx.normalTitle" = "AKZEPTIEREN";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "rYf-vN-dI8"; */
+"rYf-vN-dI8.normalTitle" = "Zurück";
+
+/* Class = "UILabel"; text = " Make every one famous, write a shortest biography about your friens or some one who is locally famous or a public figure."; ObjectID = "rfO-0d-YXD"; */
+"rfO-0d-YXD.text" = " Machen Sie alle berühmt, schreiben Sie eine kurze Biographie Ihres Freundes oder einer lokal bekannten Person oder einer Persönlichkeit des öffentlichen Lebens."; اجعل الجميع مشهورين ، اكتب سيرة شخصية قصيرة لصديقك ، شخص معروف محليًا أو شخصية عامة
+
+/* Class = "UILabel"; text = "PREVIEW"; ObjectID = "rqE-On-Lvo"; */
+"rqE-On-Lvo.text" = "VORSCHAU";
+
+/* Class = "UILabel"; text = "our first, class bunking"; ObjectID = "rwn-vk-uQI"; */
+"rwn-vk-uQI.text" = "our first, class bunking";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "sIn-jx-Hzq"; */
+"sIn-jx-Hzq.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "  Private account"; ObjectID = "tI0-dM-OtP"; */
+"tI0-dM-OtP.normalTitle" = "  Privater Account";
+
+/* Class = "UILabel"; text = "create a story"; ObjectID = "uKZ-gq-B14"; */
+"uKZ-gq-B14.text" = "Erstelle eine Geschichte";
+
+/* Class = "UILabel"; text = "182"; ObjectID = "uQR-To-6Di"; */
+"uQR-To-6Di.text" = "182";
+
+/* Class = "UITextView"; text = "Write a beatiful and unforgettable memory about your good old days and good old friends. Tag with with more than one friend and share the happiness with them too. It's a greate opportunity that you can make your bonds stronger once again. and enjoy the reunion , and share some beautiful memories to recall those best days of your life."; ObjectID = "uYi-Fq-FC4"; */
+"uYi-Fq-FC4.text" = "Write a beatiful and unforgettable memory about your good old days and good old friends. Tag with with more than one friend and share the happiness with them too. It's a greate opportunity that you can make your bonds stronger once again. and enjoy the reunion , and share some beautiful memories to recall those best days of your life.";
+
+/* Class = "UILabel"; text = "Few more infos.."; ObjectID = "uvo-jB-HdV"; */
+"uvo-jB-HdV.text" = "Wenige mehr Infos ..";
+
+/* Class = "UILabel"; text = "         Arun govind is an underworld don who is very famouse in all over india bvnmbkhg ou789tigtfyfghy  p98yyujuhoiuy 9p8y89uy7y iouy7yy77 7yy8oy98y7897897987hhj iugoiygy87ug ugh8oy77y78ypo9 "; ObjectID = "vEy-1s-WxF"; */
+"vEy-1s-WxF.text" = "         Arun govind is an underworld don who is very famouse in all over india bvnmbkhg ou789tigtfyfghy  p98yyujuhoiuy 9p8y89uy7y iouy7yy77 7yy8oy98y7897897987hhj iugoiygy87ug ugh8oy77y78ypo9 ";
+
+/* Class = "UIButton"; normalTitle = "Fazil fazal"; ObjectID = "vLA-Db-fz2"; */
+"vLA-Db-fz2.normalTitle" = "Fazil fazal";
+
+/* Class = "UILabel"; text = "For PUBLIC FIGURE accounts where anybody can write your profile *"; ObjectID = "vLD-ha-wVv"; */
+"vLD-ha-wVv.text" = "Für PUBLIC-FIGUR-Konten, in denen jeder Ihr Profil schreiben kann *";
+
+/* Class = "UILabel"; text = "Please enter your Number and we will let you to update your Password"; ObjectID = "vt7-MD-UM7"; */
+"vt7-MD-UM7.text" = "Bitte geben Sie Ihre Nummer ein und wir werden Ihnen erlauben, Ihr Passwort zu aktualisieren";
+
+/* Class = "UILabel"; text = "Fuhad saneen"; ObjectID = "wLf-d7-9DN"; */
+"wLf-d7-9DN.text" = "Fuhad saneen";
+
+/* Class = "UIButton"; normalTitle = "  Edit profile"; ObjectID = "wjF-te-bft"; */
+"wjF-te-bft.normalTitle" = "  Profil bearbeiten";
+
+/* Class = "UILabel"; text = "Bits✨"; ObjectID = "wwP-VE-dNf"; */
+"wwP-VE-dNf.text" = "Bits✨";
+
+/* Class = "UILabel"; text = "create a biography about"; ObjectID = "xDF-mE-E7f"; */
+"xDF-mE-E7f.text" = "Erstellen Sie eine Biografie über";
+
+/* Class = "UILabel"; text = "send some feature cards which tells the most special thing about them that you liked the most"; ObjectID = "xUN-ik-vxI"; */
+"xUN-ik-vxI.text" = "sende einige Feature-Karten, die dir das Besondere an dir erzählen, das dir am besten gefallen hat";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "xlm-AQ-NgG"; */
+"xlm-AQ-NgG.normalTitle" = "Stornieren";
+
+/* Class = "UIButton"; normalTitle = "Write a reply"; ObjectID = "y87-59-zAn"; */
+"y87-59-zAn.normalTitle" = "Eine Antwort schreiben";
+
+/* Class = "UIButton"; normalTitle = "185"; ObjectID = "yFt-Gm-1u3"; */
+"yFt-Gm-1u3.normalTitle" = "185";
+
+/* Class = "UILabel"; text = "Compulsory and it is highly secure *"; ObjectID = "yHt-fx-lwo"; */
+"yHt-fx-lwo.text" = "Obligatorisch und es ist sehr sicher *";
+
+/* Class = "UILabel"; text = "How to use App "; ObjectID = "yOF-3G-vwc"; */
+"yOF-3G-vwc.text" = "Wie man App benutzt ";
+
+/* Class = "UILabel"; text = "1836"; ObjectID = "yQc-0j-cYL"; */
+"yQc-0j-cYL.text" = "1836";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "yoo-lr-mPn"; */
+"yoo-lr-mPn.normalTitle" = "Stornieren";
+
+/* Class = "UILabel"; text = "2 days ago"; ObjectID = "zRY-lu-FX6"; */
+"zRY-lu-FX6.text" = "2 days ago";
+
+/* Class = "UILabel"; text = "3 days ago"; ObjectID = "zSL-N8-I7d"; */
+"zSL-N8-I7d.text" = "3 days ago";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "zml-bW-vV6"; */
+"zml-bW-vV6.normalTitle" = "NÄCHSTER";
+
+/* Class = "UITextField"; placeholder = "ENTER YOUR NUMBER WITH COUNTRY CODE"; ObjectID = "zqm-tX-Xi4"; */
+"zqm-tX-Xi4.placeholder" = "GEBEN SIE IHREN NUMMER MIT LÄNDERCODE EIN";
